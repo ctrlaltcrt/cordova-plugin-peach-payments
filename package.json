@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-peach-payments",
+  "version": "0.0.1",
+  "description": "A Cordova Plugin for Peach Payments",
+  "main": "www/peach-payments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrlaltcrt/cordova-plugin-peach-payments.git"
+  },
+  "keywords": [
+    "cordova",
+    "peach",
+    "payments"
+  ],
+  "author": "Derick Kemp <derick@controlaltcreate.co.za>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ctrlaltcrt/cordova-plugin-peach-payments/issues"
+  },
+  "homepage": "https://github.com/ctrlaltcrt/cordova-plugin-peach-payments#readme"
+}
