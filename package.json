@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-peach-payments",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A Cordova Plugin for Peach Payments",
   "main": "www/peach-payments.js",
   "scripts": {

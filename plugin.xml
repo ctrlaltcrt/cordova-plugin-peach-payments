@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="za.co.controlaltcreate.cordova-plugin-peach-payments" version="0.0.1">
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0" id="za.co.controlaltcreate.cordova-plugin-peach-payments" version="0.0.3">
     <name>Peach Payments</name>
 
     <description>Cordova Peach Payments Plugin</description>
@@ -16,7 +16,7 @@
 
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
-            <feature name="Peach Payments">
+            <feature name="PeachPayments">
                 <param name="android-package" value="za.co.controlaltcreate.plugin.PeachPayments"/>
             </feature>
         </config-file>
